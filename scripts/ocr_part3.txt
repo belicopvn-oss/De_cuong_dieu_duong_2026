@@ -1,0 +1,592 @@
+190. Trong công tác Điều dưỡng tại khoa, khi thấy một đồng nghiệp khác thực hành công việc chưa đúng, việc cần làm là:
+A. Ngay lập tức nhắc nhở, báo với quản lý khoa
+B. Quan sát cụ thể và nhắc nhở khi không có mặt người bệnh và thân nhân người bệnh
+C. Thực hiện thay kỹ thuật đồng nghiệp đang làm một cách khéo léo
+D. B và C đúng
+Đáp án đúng: D
+
+191. Người bệnh xuất viện cách 1 tháng đến xin cấp lại do bị mất, xử lý đúng là:
+A. Không cấp lại được
+B. Yêu cầu người bệnh xuất trình đơn xin cấp lại có địa phương xác nhận và báo quản lý khoa
+C. Yêu cầu người bệnh xuất trình đơn xin cấp lại có địa phương xác nhận và báo phòng kế hoạch tổng hợp
+D. Yêu cầu người bệnh ghi đơn xin cấp lại và báo điều dưỡng hành chính ra viện hoặc quản lý khoa
+Đáp án đúng: D
+
+192. Điều dưỡng khoa lâm sàng nhận thuốc của khoa dược giao, việc cần làm là:
+A. Sắp xếp thuốc vào tủ thuốc nhanh chóng để sử dụng cho người bệnh đúng thời gian
+B. Kiểm tra, đối chiếu thông tin thuốc và số lượng với phiếu lĩnh
+C. Kiểm tra phiếu xuất kho dược đủ, bàn giao cho Điều dưỡng thực hiện thuốc
+D. Kiểm tra, đối chiếu số lượng thuốc tiêm và dịch truyền đủ
+Đáp án đúng: B
+
+193. Bệnh nhân có đặt lịch mổ chương trình. Chuẩn bị đến giờ đi mổ nhưng chưa các phòng mổ đều đang kín do có ca mổ cấp cứu. Những việc ĐD cần làm là:
+A. Chú ý theo dõi giờ hẹn mổ trên phần mềm
+B. Báo người bệnh có thể ăn nhẹ vì phải chờ đợi lâu sẽ đói
+C. Theo dõi giờ hẹn mổ và báo lại bác sỹ phụ trách
+D. Thông báo người bệnh cuộc mổ có thể phải dời lại
+Đáp án đúng: C
+
+194. Bệnh nhân P101 phản ánh tua trực không có remote TV, trong khi các phòng khác thì có. Việc ĐD cần làm là:
+A. Kiểm tra sổ cấp phát, nếu đã có yêu cầu người bệnh tìm lại
+B. Kiểm tra sổ cấp phát và thực tế tại phòng bệnh, nếu thiếu bổ sung
+C. Báo quản lý khoa ĐD không thực hiện việc cấp phát theo quy định.
+D. A và B đúng
+Đáp án đúng: D
+
+195. Người bệnh trong tình trạng ổn định, chăm sóc cấp 3. Việc cấp phát thuốc uống cho người bệnh được thực hiện:
+A. Theo buổi
+B. Theo giờ thực hiện
+C. Theo ngày
+D. Khi người bệnh đau
+Đáp án đúng: B
+
+196. Một cụ bà khoảng 80 tuổi đi một mình tại lầu 2 hỏi đường tới phòng khám ngoại. Là một Điều dưỡng khi gặp tình huống này việc nên làm là:
+A. Nhờ bộ phận bảo vệ hỗ trợ vì còn công việc của khoa
+B. Ghi chú đường đi vào sổ khám bệnh và hướng dẫn bà cụ
+C. Đưa bà cụ tới phòng khám, bàn giao cho ĐD phòng khám và lưu ý bà cụ đi một mình để có hỗ trợ khi bà cụ khám xong
+D. B và C sai
+Đáp án đúng: C
+
+197. An toàn người bệnh là trách nhiệm của:
+A. Bệnh nhân
+B. Người cung cấp dịch vụ y tế
+C. Mọi người cùng chia sẻ trách nhiệm
+D. Ban giám đốc Bệnh viện
+Đáp án đúng: B
+
+198. Kiến thức về an toàn người bệnh bao gồm:
+A. Tổn hại do sai sót y khoa và trục trặc hệ thống gây ra
+B. Những bài học về sai sót và trục trặc hệ thống của các ngành công nghiệp khác
+C. Lịch sử môn an toàn người bệnh và nguồn gốc văn hóa đổ lỗi
+D. Cả 3 đáp án trên
+Đáp án đúng: D
+
+199. Quy trình chống nhầm lẫn người bệnh được thực hiện trong:
+A. Cấp, phát thuốc
+B. Phẫu thuật, thủ thuật
+C. Xét nghiệm
+D. Cả 3 đáp án trên
+Đáp án đúng: D
+
+200. Ra y lệnh miệng là:
+A. Không khuyến khích
+B. Khuyến khích trong phòng mổ
+C. Luôn cần thiết
+D. Cần thiết vì giúp công việc nhanh hơn
+Đáp án đúng: A
+
+201. Sai sót trong sử dụng thuốc xảy ra trong:
+A. Dùng thuốc sai người bệnh
+B. Dùng thuốc sai liều lượng
+C. Sai đường dùng thuốc
+D. Cả 3 đáp án trên
+Đáp án đúng: D
+
+202. Tác hại của sự cố y khoa bao gồm:
+A. Mắc thêm bệnh mới, chấn thương
+B. Tàn tật, chết người
+C. Đau đớn
+D. Cả 3 đáp án trên
+Đáp án đúng: D
+
+203. Biện pháp cải tiến môi trường để hạn chế té ngã, ngoại trừ:
+A. Lắp đặt chuông báo động tại giường, ở các lối ra vào
+B. Mở cửa sổ
+C. Sử dụng “giường thấp” cho những người bệnh có nguy cơ té ngã
+D. Phân loại nguy cơ té ngã và có cảnh báo riêng với từng người bệnh cụ thể
+Đáp án đúng: B
+
+204. Thuốc nào không có trong hộp cấp cứu phản vệ theo Thông tư 51/2017:
+A. Adrenalin 1mg/1ml 5 ống
+B. Diphehydramin 10mg 5 ống
+C. Methylprednisolon 40mg 2 lọ
+D. Hydrocortison 100mg 2 lọ
+Đáp án đúng: D
+
+205. Cơ chế của sốc phản vệ là do:
+A. Do nhiễm trùng
+B. Do dị ứng, miễn dịch
+C. Do tác dụng phụ của thuốc
+D. Do tương tác thuốc
+Đáp án đúng: B
+
+206. Xử trí nào không đúng khi người bệnh có biểu hiện sốc phản vệ:
+A. Ngừng ngay đường tiếp xúc với dị nguyên
+B. Đặt người bệnh nằm đầu cao để dễ thở
+C. Đặt người bệnh nằm đầu thấp, chân cao
+D. Cởi bỏ bớt các trang phục như dây thắt, quần áo quá chặt
+Đáp án đúng: B
+
+207. Trong khi người bệnh dùng thuốc, Điều dưỡng phải có trách nhiệm, ngoại trừ:
+A. Chuẩn bị sẵn hộp cấp cứu phản vệ và các phương tiện cấp cứu cần thiết
+B. Trực tiếp chứng kiến người bệnh uống thuốc
+C. Theo dõi thường xuyên để kịp thời phát hiện, xử trí các bất thường của người bệnh và ghi chép đầy đủ vào hồ sơ bệnh án
+D. Thuốc tiêm có thể pha dung môi của nhà sản xuất hoặc dung dịch Natriclorid 0.9%
+Đáp án đúng: D
+
+208. Khi người bệnh có dấu hiệu của sốc phản vệ sau khi dùng thuốc, Điều dưỡng cần làm:
+A. Cùng bác sĩ cấp cứu người bệnh
+B. Làm báo cáo ADR
+C. Cấp phiếu dị ứng và hướng dẫn
+D. Cả 3 đáp án trên
+Đáp án đúng: D
+
+209. Sai sót y khoa có thể xảy ra liên quan quá trình chăm sóc:
+A. Loét tỳ đè xuất hiện trước khi nằm viện
+B. Vàng da sơ sinh
+C. Bệnh nhân bị ngã trong thời gian nằm viện
+D. Sử dụng các thiết bị hỏng/thiếu chính xác trong điều trị và chăm sóc
+Đáp án đúng: C
+
+210. Triệu chứng nào sau đây tương ứng với sốc phản vệ độ 3:
+A. Khó thở nhanh nông, tức ngực
+B. Thở nhanh, khò khè, rối loạn nhịp thở
+C. Huyết áp chưa tụt hoặc tăng
+D. Ngừng tuần hoàn hô hấp
+Đáp án đúng: B
+
+211. Đảm bảo nguyên tắc tiêm an toàn, tầng trên cùng của xe tiêm được để, ngoại trừ:
+A. Các phương tiện vô khuẩn và sạch
+B. Dụng cụ thường xuyên sử dụng
+C. Dung dịch sát khuẩn tay
+D. Các dụng cụ, phương tiện dự trữ
+Đáp án đúng: D
+
+212. Khi nhận y lệnh miệng (trong trường hợp cấp cứu), người thực hiện tiêm cần:
+A. Đọc lại rõ tên thuốc và hàm lượng cho bác sĩ xác nhận
+B. Nhận thuốc được người khác chuẩn bị để thực hiện
+C. Người thực hiện là người nhận y lệnh
+D. A và C đúng
+Đáp án đúng: D
+
+213. Điều dưỡng pha 2 loại thuốc vào 1 bơm tiêm, một loại thuốc lọ và một lọ thuốc ống. Điều đầu tiên cần thực hiện là:
+A. Kiểm tra số lượng thuốc lấy vào bơm tiêm
+B. Rút thuốc ống trước
+C. Lắc kỹ lọ thuốc đảm bảo thuốc tan đều, không vẩn đục
+D. Không được pha chung
+Đáp án đúng: D
+
+214. Lưu ý khi thực hiện tiêm, ngoại trừ:
+A. Chọn vùng da không có tổn thương, không có sẹo lồi lõm
+B. Chọn vùng da dễ thực hiện, các mũi tiêm khác đã thực hiện thành công
+C. Tiêm đúng góc độ và độ sâu
+D. Xác định đúng vị trí tiêm
+Đáp án đúng: B
+
+215. Thực hiện kiểm tra 5 đúng tại thời điểm:
+A. Khi chuẩn bị thuốc, dụng cụ
+B. Trước khi lấy thuốc cho người bệnh
+C. Trước khi bỏ vỏ thuốc
+D. Cả 3 đáp án trên
+Đáp án đúng: D
+
+216. Các nguyên tắc đảm bảo tiêm an toàn, ngoại trừ:
+A. Không được chạm kim tiêm vào bất cứ bề mặt nào đã bị nhiễm bẩn
+B. Không được sử dụng lại bơm tiêm trừ khi đã thay kim tiêm
+C. Không dùng một bơm kim tiêm lấy thuốc cho nhiều lọ thuốc đa liều
+D. Không cắm bơm kim tiêm đã sử dụng vào lọ thuốc nếu lọ thuốc đó sẽ tiếp tục được sử dụng.
+Đáp án đúng: B
+
+217. Thông tư 07/2014- TT-BYT -Thông tư quy định về quy tắc ứng xử của công chức, viên chức y tế, người lao động làm việc tại các cơ sở y tế, có hiệu lực từ:
+A. Ngày 26/1/2014
+B. Ngày 25/2/2014
+C. Ngày 01/3/2014
+D. Ngày 01/5/2014
+Đáp án đúng: D
+
+218. Những việc công chức, viên chức y tế phải làm khi thi hành nhiệm vụ được giao:
+A. Có đạo đức, nhân cách và lối sống lành mạnh, trong sáng của người thầy thuốc theo quan điểm cần, kiệm, liêm, chính, chí công vô tư
+B. Phục tùng và chấp hành nhiệm vụ được giao; chủ động, chịu trách nhiệm trong công việc
+C. Giữ uy tín, danh dự cho đơn vị, cho lãnh đạo và đồng nghiệp
+D. Cả 3 đáp án trên
+Đáp án đúng: D
+
+219. Những việc công chức, viên chức y tế phải làm khi thi hành nhiệm vụ được giao, ngoại trừ:
+A. Thực hiện nghiêm túc các quy định của pháp luật về nghĩa vụ của công chức, viên chức
+B. Có ý thức tổ chức kỷ luật; thực hiện đúng quy trình chuyên môn, nghiệp vụ, nội quy, quy chế làm việc của ngành, của đơn vị
+C. Tự phê bình và phê bình khách quan, nghiêm túc, thẳng thắn, mang tính xây dựng
+D. Đóng góp ý kiến trong hoạt động, điều hành của đơn vị nhằm bảo đảm thực hiện công vụ, nhiệm vụ được giao đạt hiệu quả
+Đáp án đúng: C
+
+220. Những việc công chức, viên chức y tế không được làm khi thi hành nhiệm vụ được giao bao gồm:
+A. Trốn tránh trách nhiệm, thoái thác công việc hoặc nhiệm vụ được giao
+B. Lạm dụng chức năng, nhiệm vụ, quyền hạn được giao và danh tiếng của cơ quan, đơn vị để giải quyết công việc cá nhân; tự đề cao vai trò của bản thân để vụ lợi
+C. Phân biệt đối xử về dân tộc, nam nữ, các thành phần xã hội, tín ngưỡng, tôn giáo dưới mọi hình thức
+D. Cả 3 đáp án trên
+Đáp án đúng: D
+
+221. Những việc công chức, viên chức y tế phải làm đối với đồng nghiệp bao gồm:
+A. Trung thực, chân thành, đoàn kết, có tinh thần hợp tác, chia sẻ trách nhiệm, giúp đỡ lẫn nhau
+B. Tôn trọng và lắng nghe ý kiến của đồng nghiệp; phối hợp, trao đổi kinh nghiệm, học hỏi lẫn nhau trong thi hành công vụ, nhiệm vụ được giao
+C. Mặc trang phục, đeo thẻ công chức, viên chức đúng quy định; đeo phù hiệu của các lĩnh vực đã được pháp luật quy định (nếu có).
+D. Cả 2 đáp án A và B
+Đáp án đúng: D
+
+222. Những việc công chức, viên chức y tế không được làm đối với đồng nghiệp, ngoại trừ:
+A. Né tránh, đẩy trách nhiệm, khuyết điểm của mình cho đồng nghiệp
+B. Bè phái, chia rẽ nội bộ, cục bộ địa phương
+C. Cửa quyền, hách dịch, sách nhiễu, trì hoãn, thờ ơ, gây khó khăn đối với tổ chức, cá nhân
+D. Cả 2 đáp án A và B
+Đáp án đúng: C
+
+223. Việc phải làm của công chức, viên chức y tế đối với cơ quan, tổ chức, cá nhân:
+A. Bảo đảm thông tin trao đổi đúng với nội dung công việc mà cơ quan, tổ chức, công dân cần hướng dẫn, trả lời
+B. Phát hiện công chức, viên chức trong đơn vị thực hiện không nghiêm túc các quy định của pháp luật về nghĩa vụ của công chức, viên chức và phản ánh đến cấp có thẩm quyền, đồng thời chịu trách nhiệm cá nhân về những phản ánh đó
+C. Phục tùng và chấp hành nhiệm vụ được giao; chủ động, chịu trách nhiệm trong công việc
+D. Thực hiện nghiêm túc các quy định của pháp luật về nghĩa vụ của công chức, viên chức
+Đáp án đúng: A
+
+224. Những việc phải làm trong quy tắc ứng xử của công chức, viên chức y tế đối với người bệnh điều trị nội trú, ngoại trừ:
+A. Khẩn trương tiếp đón, bố trí giường cho người bệnh, hướng dẫn và giải thích nội quy, quy định của bệnh viện và của khoa
+B. Công khai chi tiết từng khoản chi phí trong phiếu thanh toán giá dịch vụ y tế mà người bệnh phải thanh toán; giải thích đầy đủ khi người bệnh hoặc người đại diện hợp pháp của người bệnh có yêu cầu
+C. Thăm khám, tìm hiểu, phát hiện những diễn biến bất thường và giải quyết những nhu cầu cần thiết của người bệnh; giải thích kịp thời những đề nghị, thắc mắc của người bệnh hoặc người đại diện hợp pháp của người bệnh
+D. Tư vấn giáo dục sức khoẻ và hướng dẫn người bệnh hoặc người đại diện hợp pháp của người bệnh thực hiện chế độ điều trị và chăm sóc
+Đáp án đúng: B
+
+225. Trách nhiệm của công chức, viên chức y tế trong việc thực hiện thông tư 07/2014 Quy định về quy tắc ứng xử của công chức, viên chức y tế, người lao động làm việc tại các cơ sở y tế, không bao gồm:
+A. Hưởng ứng các phong trào thi đua trong đơn vị
+B. Ký cam kết với trưởng khoa, phòng trong đơn vị về thực hiện nghiêm túc quy tắc ứng xử của công chức, viên chức y tế theo hướng dẫn của đơn vị.
+C. Gương mẫu chấp hành và vận động đồng nghiệp cùng thực hiện.
+D. Vận động nhân dân thực hiện đầy đủ các quy định của pháp luật để nhân dân tạo điều kiện giúp viên chức thực thi, hoàn thành tốt nhiệm vụ được giao
+Đáp án đúng: A
+
+226. Thời gian trung bình để thực hiện vệ sinh tay bằng dung dịch chứa cồn là:
+A. 10-20 giây
+B. 20-30 giây
+C. 30-50 giây
+D. Ít nhất 1 phút
+Đáp án đúng: B
+
+227. Theo thông tư 20, chất thải được chia làm:
+A. 2 nhóm
+B. 3 nhóm
+C. 4 nhóm
+D. 5 nhóm
+Đáp án đúng: D
+
+228. Gòn gạc không dính máu và dịch tiết phân loại vào:
+A. Thùng rác màu vàng
+B. Thùng rác màu xanh
+C. Thùng rác màu đen
+D. Thùng rác màu trắng
+Đáp án đúng: B
+
+229. Chai dịch truyền chứa hóa chất trị liệu cho bệnh nhân ung thư phân loại vào:
+A. Thùng rác màu vàng
+B. Thùng rác màu xanh
+C. Thùng rác màu đen
+D. Thùng rác màu trắng
+Đáp án đúng: C
+
+230. Phân loại theo Spaulding, dụng cụ chia làm:
+A. 2 loại
+B. 3 loại
+C. 4 loại
+D. 5 loại
+Đáp án đúng: B
+
+231. Phân loại theo Spaulding: bộ bóp bóng, bình làm ẩm, bộ phun khí dung được xử lý:
+A. Khử khuẩn mức độ trung bình
+B. Khử khuẩn mức độ cao
+C. Tiệt khuẩn
+D. Tất cả đều sai
+Đáp án đúng: B
+
+232. Dụng cụ ngâm xử lý ban đầu tại khoa sử dụng dung dịch:
+A. Hexanios G+R trong thời gian 15 phút
+B. Aniosyme X3 trong thời gian 5 phút
+C. Aniosyme synergy 5 trong thời gian 5 phút
+D. Cidex OPA trong thời gian 5 phút
+Đáp án đúng: B
+
+233. Cách pha dung dịch xử lý dụng cụ đúng, NGOẠI TRỪ:
+A. Hexanios G+R : pha 25ml hóa chất / 5 lít nước
+B. Aniosyme DD1: pha 5ml hóa chất / 1 lít nước
+C. Cidezyme: pha 5ml hóa chất/ 1 lít nước
+D. Cidex OPA để nguyên chất
+Đáp án đúng: C
+
+234. Sắp xếp thứ tự đúng theo trình tự xử lý dụng cụ ban đầu tại khoa/phòng:
+(1) Ngâm dụng cụ trong dịch khử nhiễm
+(2) Cọ rửa, xả sạch bằng nước máy.
+(3) Phân loại và làm sạch ngay sau khi sử dụng.
+(4) Lau khô bằng khăn sạch hoặc để khô tự nhiên.
+(5) Chuyển xuống khoa KSNK.
+(6) Cho vào thùng có nắp đậy.
+A. 1-2-3-4-5-6
+B. 2-3-4-1-6-5
+C. 3-2-1-4-6-5
+D. 3-1-2-4-6-5
+Đáp án đúng: D
+
+235. Sắp xếp thứ tự đúng theo trình tự xử lý dụng cụ tại khoa KSNK:
+(1) Ngâm dụng cụ trong dịch khử khuẩn.
+(2) Cọ rửa, xả sạch bằng nước sạch.
+(3) Đóng gói, dán nhãn dụng cụ.
+(4) Làm khô bằng máy sấy, súng xịt hoặc lau khô bằng khăn.
+(5) Lưu trữ và cấp phát.
+(6) Tiệt khuẩn.
+A. 1-2-4-3-5-6
+B. 1-2-4-3-6-5
+C. 3-1-2-4-6-5
+D. 3-1-2-4-5-6
+Đáp án đúng: B
+
+236. Khi tháo phương tiện phòng hộ cá nhân, phương tiện nào được khuyến cáo tháo sau cùng để bảo vệ cho nhân viên y tế:
+A. Găng tay
+B. Khẩu trang
+C. Áo choàng
+D. Kính bảo hộ
+Đáp án đúng: B
+
+237. Kim tiêm đã sử dụng được phân loại trong nhóm:
+A. Chất thải lây nhiễm sắc nhọn
+B. Chất thải lây nhiễm không sắc nhọn
+C. Chất thải sắc nhọn
+D. Chất thải lây nhiễm
+Đáp án đúng: A
+
+238. Sau khi bị kim từ bệnh nhân bị HIV đâm, nhân viên y tế cần phải xử trí tại chỗ:
+A. Nặn rửa vết thương
+B. Bôi thuốc sát trùng, nặn rửa vết thương
+C. Bôi thuốc sát trùng, không nặn rửa vết thương
+D. Rửa vùng da bị tổn thương với xà phòng dưới vòi nước chảy, không nặn vết thương.
+Đáp án đúng: D
+
+239. Phát biểu nào sau đây là KHÔNG đúng:
+A. Mang găng không thay thế được rửa tay
+B. Rửa tay trước khi mang găng là thực hành bắt buộc
+C. Sát khuẩn găng để dùng lại là chấp nhận được
+D. Khi mang găng vô khuẩn và tháo găng sau sử dụng không được để tay chạm vào mặt ngoài găng
+Đáp án đúng: C
+
+240. Dụng cụ sau khi sử dụng tại khoa phòng cần phải:
+A. Xử lý ban đầu tại các khoa trước khi gửi khoa KSNK để xử lý tiếp tục
+B. Xử lý ban đầu tại khoa là đã đủ cho các dụng cụ thiết yếu
+C. Bỏ dụng cụ vào trong dung dịch khử khuẩn, chuyển xuống khoa KSNK
+D. Không cần xử lý tại khoa, gửi ngay xuống khoa KSNK xử lý
+Đáp án đúng: A
+
+241. Nội dung nào KHÔNG đúng theo phân loại Spaulding:
+A. Các dụng cụ thiết yếu như dụng cụ nội soi ổ bụng, dụng cụ phẫu thuật bắt buộc phải được tiệt khuẩn
+B. Các dụng cụ bán thiết yếu như dụng cụ nội soi đường tiêu hoá, nội soi phế quản, dụng cụ hỗ trợ hô hấp cần phải được khử khuẩn mức độ trung bình
+C. Các dụng cụ không thiết yếu cần phải được khử khuẩn mức độ thấp hoặc trung bình
+D. Dụng cụ không thiết yếu gồm máy đo huyết áp, tai nghe
+Đáp án đúng: B
+
+242. Làm sạch là quá trình:
+A. Là biện pháp để loại bỏ các chất hữu cơ, vô cơ bám trên bề mặt dụng cụ
+B. Làm sạch là bước xử lý ban đầu bắt buộc phải thực hiện tại khoa sử dụng ban đầu.
+C. Hoá chất làm sạch bao gồm các chất tẩy rửa và các enzym
+D. Tất cả đều đúng
+Đáp án đúng: D
+
+243. Dụng cụ bán thiết yếu là dụng cụ:
+A. Đi vào khoang vô khuẩn, mạch máu cần phải khử khuẩn bậc cao
+B. Đi vào da và niêm mạc bị tổn thương cần phải khử khuẩn mức độ trung bình
+C. Đi vào khoang vô khuẩn, mạch máu, dụng cụ phẫu thuật cần phải tiệt khuẩn
+D. Tất cả đều sai
+Đáp án đúng: D
+
+244. Những dụng cụ nào sau đây bắt buộc tiệt khuẩn:
+A. Dây máy thở
+B. Bộ phun khí dung
+C. Ống nội soi mềm đường tiêu hoá
+D. Bộ thay băng cắt chỉ
+Đáp án đúng: D
+
+245. Khi vào phòng cách ly người bệnh Covid 19 có làm thủ thuật tạo khí dung, nhân viên y tế cần mang phương tiện phòng hộ cá nhân:
+A. Áo choàng, nón, bao giày, găng tay, khẩu trang y tế
+B. Áo choàng, găng tay, khẩu trang y tế
+C. Áo choàng, nón, bao giày, găng tay, khẩu trang N95
+D. Áo choàng, găng tay, khẩu trang N95
+Đáp án đúng: C
+
+246. Biện pháp nào sau đây không nằm trong phòng ngừa chuẩn:
+A. Rửa tay
+B. Sử dụng phương tiện phòng hộ cá nhân
+C. Sử dụng kháng sinh dự phòng lây nhiễm
+D. Phòng ngừa tai nạn do vật sắc nhọn
+Đáp án đúng: C
+
+247. Khi ho, hắt hơi, động tác nào sau đây được khuyến cáo để phòng ngừa lây nhiễm:
+A. Che mũi miệng bằng khăn giấy hoặc khuỷu tay, rửa tay ngay sau đó
+B. Che mũi miệng bằng bàn tay, rửa tay ngay sau đó
+C. Che mũi miệng bằng khăn giấy, không cần rửa tay
+D. Luôn mang khẩu trang y tế
+Đáp án đúng: A
+
+248. Các đường lây truyền chính trong bệnh viện:
+A. Đường không khí
+B. Đường tiếp xúc
+C. Đường giọt bắn
+D. Tất cả câu trên đều đúng
+Đáp án đúng: D
+
+249. Về phân loại chất thải lây nhiễm, phát biểu nào là sai:
+A. Chất thải lây nhiễm sắc nhọn: đựng trong thùng có lót túi màu vàng
+B. Chất thải lây nhiễm không sắc nhọn: đựng trong túi hoặc trong thùng có lót túi màu vàng
+C. Chất thải có nguy cơ lây nhiễm cao: đựng trong túi hoặc trong thùng có túi lót màu vàng
+D. Chất thải giải phẫu: đựng trong 2 lần túi màu vàng
+Đáp án đúng: A
+
+250. Chất thải nào sau đây KHÔNG phải chất thải nguy hại không lây nhiễm:
+A. Hóa chất thải bỏ có các thành phần nguy hại
+B. Dược phẩm thải bỏ thuộc nhóm gây độc tế bào hoặc có cảnh báo nguy hại từ nhà sản xuất
+C. Thiết bị y tế bị vỡ có chứa thủy ngân và các kim loại nặng
+D. Chất thải giải phẫu, xác động vật thí nghiệm
+Đáp án đúng: D
+
+251. Thời gian lưu dây truyền máu, các sản phẩm của máu để không quá:
+A. 24 giờ
+B. 48 giờ
+C. 60 giờ
+D. 96 giờ
+Đáp án đúng: A
+
+252. Biện pháp đơn giản và hiệu quả nhất góp phần giảm nhiễm khuẩn bệnh viện:
+A. Vệ sinh khoa, phòng
+B. Rửa tay
+C. Kháng sinh phòng ngừa
+D. Mang khẩu trang
+Đáp án đúng: B
+
+253. Biện pháp nào quan trọng nhất để phòng ngừa nhiễm khuẩn do tiếp xúc:
+A. Thay găng và rửa tay mỗi khi đụng chạm vào người bệnh hoặc đồ vật trong phòng cách ly
+B. Đeo khẩu trang khi vào buồng cách ly
+C. Nghiêm cấm người bệnh không ra khỏi phòng cách ly
+D. Người bệnh ra khỏi phòng cách ly phải đeo khẩu trang
+Đáp án đúng: A
+
+254. Mục đích của sử dụng găng tay là:
+A. Hạn chế vật sắc nhọn xuyên vào tay
+B. Hạn chế nguy cơ phơi nhiễm với máu, dịch
+C. Nhân viên y tế dễ thao tác khi thực hành chăm sóc người bệnh
+D. Các câu trên đúng
+Đáp án đúng: B
+
+255. Thời điểm nào sau đây KHÔNG nằm trong “5 thời điểm rửa tay” khi chăm sóc bệnh nhân:
+A. Trước khi tiếp xúc bệnh nhân
+B. Sau khi tiếp xúc với dịch tiết bệnh nhân
+C. Trước khi tiếp xúc vật dụng xung quanh bệnh nhân
+D. Trước khi thực hiện các thủ thuật chăm sóc vô khuẩn
+Đáp án đúng: C
+
+256. Đồ vải của người bệnh được thu gom và cho vào:
+A. Hai túi riêng biệt.
+B. Ba túi riêng biệt.
+C. Bỏ chung vào một túi.
+D. Tất cả đều đúng.
+Đáp án đúng: A
+
+257. Thời gian tốt nhất để uống thuốc phòng phơi nhiễm sau khi bị phơi nhiễm:
+A. 48 giờ
+B. 72 giờ
+C. 2 giờ
+D. 6 giờ
+Đáp án đúng: C
+
+258. Vỏ lọ vắc xin thuộc loại vắc xin bất hoạt hoặc giảm độc lực là chất thải:
+A. Thông thường
+B. Tái chế
+C. Lây nhiễm
+D. Nguy hại
+Đáp án đúng: C
+
+259. Người chịu trách nhiệm phân loại CTYT là:
+A. Nhân viên thu gom, vận chuyển
+B. Nhân viên các khoa, phòng
+C. Nhân viên lưu giữ
+D. Người làm phát sinh chất thải
+Đáp án đúng: D
+
+260. Phòng ngừa chuẩn được định nghĩa:
+A. Tập hợp các biện pháp phòng ngừa áp dụng cho tất cả những người bệnh trong bệnh viện, còn tùy thuộc vào chẩn đoán và tình trạng nhiễm trùng của người bệnh
+B. Tập hợp các biện pháp phòng ngừa áp dụng cho tất cả những người bệnh trong bệnh viện, không tùy thuộc vào chẩn đoán và tình trạng nhiễm trùng của người bệnh
+C. Cả 2 câu trên đúng
+D. Cả 2 câu trên sai
+Đáp án đúng: B
+
+261. Công việc nào sau đây thuộc thực hành phòng ngừa chuẩn:
+A. Mang găng khi dự kiến sẽ tiếp xúc với máu hoặc dịch cơ thể
+B. Rửa tay trong chăm sóc bệnh nhân
+C. Khử hoặc tiệt khuẩn dụng cụ khi sử dụng giữa những người bệnh
+D. Các câu trên đúng
+Đáp án đúng: D
+
+262. Định nghĩa nào sau đây được xem là nhiễm khuẩn bệnh viện:
+A. Nhiễm khuẩn xảy ra khi nằm viện, hiện diện sau 72 giờ nhập viện
+B. Nhiễm khuẩn xảy ra khi nằm viện, hiện diện vào lúc nhập viện và không ở trong giai đoạn ủ bệnh lúc nhập viện
+C. Nhiễm khuẩn xảy ra khi nằm viện, không hiện diện vào lúc nhập viện và ở trong giai đoạn ủ bệnh lúc nhập viện
+D. Nhiễm khuẩn xảy ra trong quá trình người bệnh được chăm sóc, điều trị tại cơ sở khám bệnh, chữa bệnh.
+Đáp án đúng: D
+
+263. Thông tư là cơ sở pháp lý hướng dẫn về tổ chức thực hiện công tác kiểm soát nhiễm khuẩn tại các cơ sở khám bệnh, chữa bệnh được Bộ y tế ban hành:
+A. Thông tư 51/2017/TT-BYT
+B. Thông tư 20/2021/TT-BYT
+C. Thông tư 16/2018/TT-BYT
+D. Thông tư 08/2020/TT-BYT
+Đáp án đúng: C
+
+264. Theo Thông tư 16/2018/TT-BYT mỗi khoa cử ai tham gia vào mạng lưới Kiểm soát nhiễm khuẩn:
+A. 1 Bác sĩ
+B. Điều dưỡng trưởng
+C. 1 Điều dưỡng
+D. Cả A và C
+Đáp án đúng: D
+
+265. Để giảm đau cho bệnh nhân sau gãy xương, điều cần thiết phải làm là:
+A. Cho bệnh nhân uống thuốc giảm đau
+B. Bất động tốt chi gãy
+C. Tiêm thuốc tê nơi tổn thương
+D. Chườm nóng nơi tổn thương
+Đáp án đúng: B
+
+266. Stress xảy ra ở bệnh nhân chấn thương tủy sống thường dẫn đến nguy cơ:
+A. Viêm tụy
+B. Táo bón
+C. Xuất huyết tiêu hóa
+D. Rối loạn thân nhiệt
+Đáp án đúng: C
+
+267. Ngay sau bị bong gân, bệnh nhân cần được xử trí:
+A. Chườm nóng
+B. Xoa dầu nóng
+C. Xoa bóp với rượu thuốc
+D. Chườm lạnh vùng tổn thương
+Đáp án đúng: D
+
+268. Dấu hiệu bó bột bị lỏng:
+A. Vận động thấy đau
+B. Chi bó bột phù nề nhiều
+C. Đau liên tục, nóng rát
+D. Đau trong xương
+Đáp án đúng: A
+
+269. Bệnh nhân bó bột chi dưới thường bị:
+A. Loét do nằm lâu
+B. Tắc ruột do không vận động
+C. Nhiễm trùng tiểu
+D. Táo bón do không vận động
+Đáp án đúng: D
+
+270. Dấu hiệu chèn ép điểm sau khi bó bột:
+A. Đau, liệt vận động
+B. Cảm giác nghe lục cục
+C. Nóng rát, đau liên tục, cử động ngón khó
+D. Đau trong xương
+Đáp án đúng: C
+
+271. Xử trí khi bệnh nhân bị chèn ép điểm sau khi bó bột:
+A. Rạch bột
+B. Mở cửa sổ
+C. Tháo bột, thay bằng nẹp
+D. Kê cao chi
+Đáp án đúng: B
+
+272. Giáo dục sức khỏe cho bệnh nhân bó bột gãy xương:
+A. Khuyên bệnh nhân không mang nặng trên chi tổn thương
+B. Chăm sóc da và hướng dẫn đi nạng
+C. Đến cơ sở y tế kiểm tra hằng ngày.
+D. Câu A, B đúng
+Đáp án đúng: D

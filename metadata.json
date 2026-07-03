@@ -1,0 +1,8 @@
+{
+  "name": "800 Câu Trắc Nghiệm Điều Dưỡng",
+  "description": "Ứng dụng ôn luyện 800 câu hỏi trắc nghiệm lý thuyết thi điều dưỡng giỏi năm 2025. Chia làm 8 phần học tập, xem đáp án tức thì, theo dõi tiến độ, lưu lịch sử làm bài và ôn tập những câu hay sai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
