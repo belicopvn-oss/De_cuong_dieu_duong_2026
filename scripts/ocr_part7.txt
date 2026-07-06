@@ -1,0 +1,699 @@
+701. Đối với bệnh nhân có chỉ định chụp CT có tiêm thuốc cản quang cần nhịn ăn tối thiểu:
+A. 1h.
+B. 2h.
+C. 3h.
+D. 4h.
+Đáp án đúng: D
+
+702. Bệnh nhân có yếu tố nào sau đây thuộc nhóm chống chỉ định “tuyệt đối” với chụp CT có tiêm thuốc cản quang:
+A. Tiền sử dương tính dị ứng hoặc phản ứng không mong muốn với thuốc cản quang chứa Iode.
+B. Phụ nữ đang cho con bú.
+C. Bệnh nhân đái tháo đường.
+D. Tất cả đều đúng.
+Đáp án đúng: A
+
+703. Hệ thống chụp Cắt lớp vi tính (CT) được trang bị tại khoa CĐHA bệnh viện ĐHYD Shing Mark hiện nay có số lát cắt là:
+A. 16.
+B. 32.
+C. 64.
+D. 128.
+Đáp án đúng: D
+
+704. Hệ thống chụp Cộng hưởng từ (MRI) được trang bị tại khoa CĐHA bệnh viện ĐHYD Shing Mark hiện nay có từ trường là:
+A. 0,35 T.
+B. 0,5 T.
+C. 1 T.
+D. 1,5 T.
+Đáp án đúng: D
+
+705. Thiết bị nào sau đây không sử dụng tia X:
+A. Siêu âm.
+B. X-Quang.
+C. CT.
+D. Máy đo mật độ loãng xương bằng phương pháp Dexa.
+Đáp án đúng: A
+
+706. Thiết bị nào sau đây sử dụng tia X:
+A. MRI.
+B. Siêu âm.
+C. Máy đo mật độ loãng xương bằng phương pháp Dexa.
+D. Tất cả đều sai.
+Đáp án đúng: C
+
+707. Trước khi vào phòng thực hiện các kĩ thuật có sử dụng tia X, đối tượng nào sau đây cần thông báo với NVYT:
+A. Người già.
+B. Người tàn tật.
+C. Phụ nũ có thai hoặc nghi ngờ mang thai.
+D. Trẻ em.
+Đáp án đúng: C
+
+708. Trong chụp CT mạch vành có tiêm thuốc cản quang, vị trí đặt kim luồn tĩnh mạch tối ưu nhất tại:
+A. Cổ tay trái.
+B. Khuỷu tay trái.
+C. Khuỷu tay phải.
+D. Mu bàn tay phải.
+Đáp án đúng: C
+
+709. Trong chụp CT mạch vành có tiêm thuốc cản quang nên sử dụng kim luồn tĩnh mạch có kích thước tối ưu nhất là:
+A. 18G.
+B. 20G.
+C. 22G.
+D. 24G.
+Đáp án đúng: A
+
+710. Khi chụp CT mạch vành có tiêm thuốc cản quang, nhịp tim bệnh nhân nằm trong khoảng nào là tốt nhất:
+A. 76-80 bpm.
+B. 60-65 bpm.
+C. 70-75 bpm.
+D. 81-85 bpm.
+Đáp án đúng: B
+
+711. Giới hạn giải phẫu đo mức độ loãng xương tại vị cột sống thắt lưng bằng phương pháp Dexa:
+A. L1-L4.
+B. D12-L5.
+C. L2-L5.
+D. L3-S1.
+Đáp án đúng: A
+
+712. Đo loãng xương 2 vị trí bằng phương pháp Dexa được áp dụng tại khoa CĐHA bệnh viện ĐHYD Shing Mark thường được đo tại những vị trí nào:
+A. Cổ xương đùi hai bên.
+B. Cổ tay và Cột sống thắt lưng.
+C. Cổ xương đùi trái và Cột sống thắt lưng.
+D. Cổ tay hai bên.
+Đáp án đúng: C
+
+713. Các vị trí có thể đo loãng xương bằng phương pháp Dexa là:
+A. Cột sống thắt lưng.
+B. Cổ tay.
+C. Cổ xương đùi.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+714. Những thông tin cần thiết để có thể đo mật độ xương bằng phương pháp Dexa:
+A. Cân nặng.
+B. Chiều cao.
+C. Tuổi, giới tính, dân tộc.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+715. Tư thế bệnh nhân khi đo mật độ xương bằng phương pháp Dexa tại vị trí cổ xương đùi:
+A. Bệnh nhân nằm ngửa, hai tay xuôi theo thân mình, chân bên đo xoay vào trong 15-20°.
+B. Bệnh nhân nằm ngửa, hai tay xuôi theo thân mình, chân bên đo xoay ra ngoài 15-20°.
+C. Bệnh nhân nằm sấp, hai tay xuôi theo thân mình, chân bên đo xoay vào trong 15-20°.
+D. Bệnh nhân nằm sấp, hai tay xuôi theo thân mình, chân bên đo xoay ra ngoài 15-20°.
+Đáp án đúng: A
+
+716. Tư thế bệnh nhân khi đo mật độ xương bằng phương pháp Dexa tại vị trí cột sống thắt lưng:
+A. Bệnh nhân nằm sấp, chân duỗi thẳng, hai tay xuôi theo thân mình.
+B. Bệnh nhân nằm nghiêng, chân duỗi thẳng, hai tay xuôi theo thân mình.
+C. Bệnh nhân nằm ngửa, chân duỗi thẳng, hai tay xuôi theo thân mình.
+D. Bệnh nhân nằm ngửa, hai chân kê cao, hai tay xuôi theo thân mình.
+Đáp án đúng: D
+
+717. Tư thế bệnh nhân khi đo mật độ xương bằng phương pháp Dexa tại vị trí cổ tay:
+A. Bệnh nhân ngồi cạnh bàn, tay bên đo đặt nghiêng, song song với mặt bàn.
+B. Bệnh nhân ngồi cạnh bàn, tay bên đo đặt ngửa, duỗi thẳng.
+C. Bệnh nhân ngồi cạnh bàn, tay bên đo đặt sấp, cẳng tay vuông góc với cánh tay.
+D. Bệnh nhân ngồi cạnh bàn, tay bên đo đặt sấp, xuôi theo thân mình.
+Đáp án đúng: C
+
+718. Các chống chỉ định của đo mật độ xương bằng phương pháp Dexa:
+A. Phụ nữ có thai hoặc nghi ngờ mang thai.
+B. Đặt thiết bị cấy ghép, phẫu thuật tại vị trí đo.
+C. Làm các xét nghiệm có sử dụng thuốc cản quang dưới 3 ngày.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+719. Chuẩn bị bệnh nhân trong chụp Xquang ngực thẳng cần:
+A. Loại bỏ các dị vật ra khỏi vùng cần chụp.
+B. Cho bệnh nhân thay áo choàng.
+C. Hướng dẫn bệnh nhân Hít sâu – nín thở khi có hiệu lệnh.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+720. Loại thuốc cản quang đang được sử dụng tại phòng CT khoa CĐHA bệnh viện ĐHYD Shing Mark:
+A. Omnipaque.
+B. Dotarem.
+C. Gadovist.
+D. Tất cả đều đúng.
+Đáp án đúng: A
+
+721. Loại thuốc tương phản đang được sử dụng tại phòng MRI khoa CĐHA bệnh viện ĐHYD Shing Mark:
+A. Gadovist.
+B. Dotarem.
+C. A và B đều đúng.
+D. Omnipaque.
+Đáp án đúng: C
+
+722. Nhiệt độ bảo quản thuốc tương phản dùng trong chụp MRI là:
+A. 15-30°C.
+B. 30-35°C.
+C. 10-15°C.
+D. 5-10°C.
+Đáp án đúng: A
+
+723. Nhiệt độ tiêu chuẩn đảm bảo hoạt động của máy chụp CT là:
+A. 18-23 °C.
+B. 26-28 °C.
+C. 28-30 °C.
+D. 30-32 °C.
+Đáp án đúng: A
+
+724. Độ ẩm tiêu chuẩn đảm bảo hoạt động của máy chụp CT là:
+A. ≤ 80%.
+B. ≤ 85%.
+C. ≤ 90%.
+D. ≤ 70%.
+Đáp án đúng: D
+
+725. Dụng cụ có thể dung che chắn tia X trong phòng chụp CT 128 slices là:
+A. Áo chì.
+B. Chăn.
+C. Gối.
+D. Tất cả đều sai.
+Đáp án đúng: A
+
+726. Trang thiết bị cần dùng trong chụp CT mạch vành:
+A. Máy bơm 2 nòng.
+B. Máy CT có nhiều hơn 64 dãy đầu dò.
+C. Monitor.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+727. Tác dụng của việc sử dụng Nitro glycerin trong chụp CT mạch vành là:
+A. Giãn đường kính mạch vành.
+B. Hạ nhịp tim.
+C. Tăng nhịp tim.
+D. Tăng huyết áp.
+Đáp án đúng: A
+
+728. Câu lệnh thường được dùng trong chụp CT mạch vành tại khoa CĐHA bệnh viện ĐHYD Shing Mark:
+A. Hít vào – nín thở.
+B. Hít vào – thở ra – nín thở.
+C. Hít vào – thở ra – hít vào – nín thở.
+D. Tất cả đều sai.
+Đáp án đúng: C
+
+729. Câu lệnh thường được dùng trong chụp CT động mạch phổi trại khoa CĐHA bệnh viện ĐHYD Shing Mark:
+A. Hít vào – nín thở.
+B. Hít vào – thở ra – nín thở.
+C. Hít vào – thở ra – hít vào – nín thở.
+D. Tất cả đều sai.
+Đáp án đúng: B
+
+730. Trong chụp CT cản quang, liều thuốc dành cho người lớn thường được sử dụng theo tỷ lệ:
+A. 1,5-2 ml/kg cân nặng người bệnh.
+B. 3,5-4 ml/kg cân nặng người bệnh.
+C. 4-4,5 ml/kg cân nặng người bệnh.
+D. 4,5-5 ml/kg cân nặng người bệnh.
+Đáp án đúng: A
+
+731. Trong chụp CT cản quang, liều thuốc dành cho trẻ em thường được sử dụng theo tỷ lệ:
+A. 1-3 ml/kg cân nặng người bệnh.
+B. 4-5 ml/kg cân nặng người bệnh.
+C. 6-7 ml/kg cân nặng người bệnh.
+D. 7-8 ml/kg cân nặng người bệnh.
+Đáp án đúng: A
+
+732. Hàm lượng thuốc cản quang 300mgI/ml tương đương với bao nhiêu dung lượng trên 1ml:
+A. 647 mg.
+B. 755 mg.
+C. 800 mg.
+D. 900 mg.
+Đáp án đúng: A
+
+733. Hàm lượng thuốc cản quang 350mgI/ml tương đướng với bao nhiêu dung lượng trên 1ml:
+A. 647 mg.
+B. 755 mg.
+C. 800 mg.
+D. 900 mg.
+Đáp án đúng: B
+
+734. Độ nhớt của thuốc cản quang Omnipaque có nồng độ 300mgI/ml tại nhiệt độ 37°C là:
+A. 6,1 mPa-s.
+B. 10 mPa-s.
+C. 20 mPa-s.
+D. 30 mPa-s.
+Đáp án đúng: A
+
+735. Độ nhớt của thuốc cản quang Omnipaque có nồng độ 350mgI/ml tại nhiệt độ 37°C là:
+A. 10,6 mPa-s.
+B. 20 mPa-s.
+C. 30 mPa-s.
+D. 40 mPa-s.
+Đáp án đúng: A
+
+736. Thiết bị đang được sử dụng để bơm thuốc cản quang tại phòng CT khoa CĐHA bệnh viện ĐHYD Shing Mark là gì:
+A. Máy bơm 1 nòng.
+B. Máy bơm 2 nòng.
+C. Bơm tiêm điện.
+D. Tất cả đều sai.
+Đáp án đúng: B
+
+737. Trên màn hình máy bơm thuốc cản quang tại phòng CT khoa CĐHA bệnh viện ĐHYD Shing Mark có 2 cột A và B. Hai cột A và B lần lượt đại diện cho:
+A. Thuốc cản quang – nước.
+B. Nước – thuốc cản quang.
+C. Cả hai đều là nước.
+D. Cả hai đều là thuốc cản quang.
+Đáp án đúng: A
+
+738. CT (Cắt lớp vi tính) là viết tắt của cụm từ tiếng anh nào:
+A. City
+B. Computed Tomography.
+C. Cả 2 phương án trên đều sai.
+D. Cả 2 phương án trên đều đúng.
+Đáp án đúng: B
+
+739. MRI (Cộng hưởng từ) là viết tắt của cụm từ tiếng anh nào:
+A. Magnetic Resonance Imaging.
+B. Magic Resonance Imaging.
+C. Matrix Resonance Imaging.
+D. Math Resonance Imaging.
+Đáp án đúng: A
+
+740. Tốc độ trên 1 vòng quay (Rotation time) của máy chụp CT tại khoa CĐHA bệnh viện ĐHYD Shing Mark nhanh nhất là bao nhiêu:
+A. 0.35 s.
+B. 0,28 s.
+C. 0,5 s.
+D. 0.6 s.
+Đáp án đúng: A
+
+741. Độ mở bộ chuẩn trục (Collimator) tối đa của máy chụp CT tại khoa CĐHA bệnh viện ĐHYD Shing Mark là bao nhiêu:
+A. 80 mm.
+B. 40 mm.
+C. 160 mm.
+D. 20 mm.
+Đáp án đúng: B
+
+742. Phương tiện di chuyển bệnh nhân được phép đưa vào phòng cộng hưởng từ (MRI):
+A. Xe lăn thông thường.
+B. Giường nằm thông thường.
+C. Cáng sắt.
+D. Xe lăn chuyện dụng được dán nhãn MRI Safety.
+Đáp án đúng: D
+
+743. Các vật dụng không được phép mang vào phòng cộng hưởng từ (MRI):
+A. Bơm tiêm điện.
+B. Bình Oxy.
+C. Điện thoại, thẻ từ.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+744. Trước khi vào chụp phòng chụp MRI bệnh nhân nên được làm gì:
+A. Điền bảng câu hỏi kiểm tra an toàn trước khi chụp (Checklist).
+B. Thay quần áo.
+C. Quét kiểm tra kim loại trên cơ thể.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+745. Bệnh nhân chụp MRI có tiêm thuốc tương phản từ cần được chuẩn bị những gì:
+A. Thực hiện điền bảng kiểm tra an toàn trước khi chụp.
+B. Thay áo quần.
+C. Được giải thích về việc sử dụng thuốc tương phản từ và kí cam kết sử dụng thuốc.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+746. Chứng chỉ an toàn bức xạ đối với nhân viên bức xạ có thời hạn bao lâu:
+A. 1 năm.
+B. 2 năm.
+C. 3 năm.
+D. 4 năm.
+Đáp án đúng: C
+
+747. Trong khu vực đặt máy cộng hưởng từ, theo khuyến cáo được chia ra bao nhiêu khu vực theo các mức độ an toàn khác nhau:
+A. 1 khu vực.
+B. 2 khu vực.
+C. 3 khu vực.
+D. 4 khu vực.
+Đáp án đúng: D
+
+748. Khi chụp bàn tay tư thế sau trước, ta đặt:
+A. Bàn tay úp xuống
+B. Bàn tay lật ngửa
+C. Các ngón tay xòe ra, duỗi thẳng
+D. A và C đúng
+Đáp án đúng: D
+
+749. Chụp bàn tay tư thế sau trước tia trung tâm nhắm tại:
+A. Khớp bàn ngón thứ II
+B. Khớp bàn ngón thứ III
+C. Khớp bàn ngón thứ IV
+D. Nhắm ngay nơi nghi ngờ tổn thương
+Đáp án đúng: B
+
+750. Chụp bàn tay ở tư thế chếch, đầu đèn ngắm tại:
+A. Khớp bàn ngón thứ I
+B. Khớp bàn ngón thứ II
+C. Khớp bàn ngón thứ III
+D. Giữa cổ tay
+Đáp án đúng: C
+
+751. Trong tư thế chụp cổ tay sau trước, ta đặt:
+A. Bàn tay đặt úp trên phim, các ngón tay nắm lại
+B. Lòng bàn tay ngửa với các ngón nắm lại
+C. Các ngón tay duỗi ra với lòng bàn tay ngửa.
+D. Tất cả đều đúng.
+Đáp án đúng: A
+
+752. Ở tư thế chụp cổ tay nghiêng, ta nhắm tia trung tâm tại:
+A. Mấu trâm xương trụ
+B. Mấu trâm xương quay
+C. Ngay giữa cổ tay
+D. Khớp xương bàn - cổ tay
+Đáp án đúng: A
+
+753. Trong tư thế chụp cẳng tay trước sau, cẳng tay được đặt:
+A. Ngửa
+B. Sấp
+C. Có thể ngửa hoặc sấp
+D. Hơi ngả ra sau một chút
+Đáp án đúng: A
+
+754. Khi chụp cẳng tay tư thế trước sau, tia trung tâm nhắm ngay:
+A. Giữa hai xương cẳng tay
+B. 1/3 dưới cẳng tay
+C. Nơi nghi ngờ tổn thương
+D. 1/8 trên cẳng tay
+Đáp án đúng: A
+
+755. Tư thế chụp khuỷu tay trước sau, giúp ta thấy:
+A. Đầu dưới xương cánh tay
+B. Đầu trên xương trụ
+C. Khớp khuỷu
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+756. Trong tư thế chụp xương cánh tay nghiêng, ta có thể đặt bệnh nhân:
+A. Đứng
+B. Nằm ngửa
+C. Nằm sấp
+D. Tất cả đều đúng
+Đáp án đúng: D
+
+757. Trong tư thế chụp xương đòn sau trước, ta đặt bệnh nhân:
+A. Nằm sấp hai tay đưa về phía đầu.
+B. Nằm ngửa hai tay đưa về phía đầu.
+C. Nằm ngửa hai tay xuôi theo thân mình
+D. Nằm sấp cánh tay bên cần chụp duỗi xuôi theo thân mình
+Đáp án đúng: D
+
+758. Ở tư thế chụp xương đòn nhắm tia trung tâm ngay:
+A. Trung tâm phim
+B. Giữa xương bả vai
+C. Giữa xương đòn
+D. Trên xương đòn 2,5 cm
+Đáp án đúng: C
+
+759. Tư thế chụp bàn chân trước sau giúp ta nhìn thấy rõ nhất:
+A. Xương bàn chân
+B. Xương sên
+C. Xương cổ chân
+D. Khớp cổ bàn chân
+Đáp án đúng: A
+
+760. Khi thực hiện kỹ thuật chụp X-quang bàn chân, tư thế bệnh nhân cần:
+A. Bệnh nhân nằm sấp
+B. Bệnh nhân ngồi trên bàn chụp, bàn chân đau đặt trên phim
+C. A và B đều đúng.
+D. A và B đều sai.
+Đáp án đúng: B
+
+761. Khi chụp xương gót tư thế thẳng, ta điều chỉnh đầu đèn để:
+A. Tia trung tâm thẳng góc mặt phim
+B. Bẻ về phía đầu một góc khoảng 30 độ
+C. Tia trung tâm ngay giữa lòng bàn chân
+D. Tất cả đều sai.
+Đáp án đúng: B
+
+762. Để làm tăng sự rõ rệt của mắt cá ngoài khi chụp cổ chân tư thế trước sau, ta đặt:
+A. Bàn chân dựng đứng
+B. Xoay bàn chân vào trong một chút
+C. Xoay bàn chân ra ngoài một chút
+D. Tất cả đều sai.
+Đáp án đúng: B
+
+763. Chụp cổ chân tư thế nghiêng giúp ta thấy rõ nhất:
+A. Đầu dưới xương chày
+B. Xương gót
+C. Đầu dưới xương mác
+D. Khớp sên chày
+Đáp án đúng: B
+
+764. Tư thế chụp khớp gối thế trước sau được thực hiện với:
+A. Bệnh nhân ngồi hoặc nằm ngửa trên bàn chụp hình
+B. Đầu gối duỗi thẳng, cẳng chân đặt ở thế trước sau
+C. Bờ dưới xương bánh chè ngay trung tâm phim
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+765. Khi chụp khung chậu tư thế trước sau, ta thực hiện như sau:
+A. Đặt bệnh nhân nằm ngửa
+B. Bình diện giữa thân mình bệnh nhân ngay đường giữa bàn
+C. Nhắm tia trung tâm ngay trung điểm đường thẳng nối liền hai gai chậu trước trên
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+766. Khi chụp CSC ở tư thế trước sau ta điều chỉnh để:
+A. Bệnh nhân đứng, ngồi hoặc nằm ngửa
+B. Bình diện giữa đầu và cổ ngay đường giữa bàn hoặc phim
+C. Đầu bệnh nhân hơi ngửa.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+767. Khi chụp cột sống cổ tư thế nghiêng ta điều chỉnh cassette để:
+A. Trung tâm phim ngang mức sụn giáp (ngang mức C4).
+B. Cằm ngay trung tâm phim
+C. Vành tai ngay tâm phim
+D. Vai bệnh nhân ngay trung tâm phim.
+Đáp án đúng: A
+
+768. Tư thế chụp cột sống cổ thế chếch được thực hiện như sau:
+A. Đặt bệnh nhân đứng, nằm hay ngồi.
+B. Cằm bệnh nhân ngửa lên.
+C. Xoay thân mình bệnh nhân về phía còn lại một góc 45 độ. (So với bên cần chụp).
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+769. Khi chụp cột sống ngực tư thế nghiêng ta điều chỉnh bệnh nhân hợp với mặt phim một góc:
+A. 30
+B. 45
+C. 75
+D. 90
+Đáp án đúng: D
+
+770. Ta cho bệnh nhân chống hai chân trên bàn khi chụp cột sống thắt lưng tư thế trước sau là nhằm:
+A. Giúp cột sống thắt lưng tiếp xúc sát phim hơn
+B. Hình ảnh cột sống thắt lưng không bị sai lệch trên phim
+C. A và B sai.
+D. A và B đúng.
+Đáp án đúng: D
+
+771. Phim cột sống thắt lưng tư thế trước sau giúp ta thấy:
+A. Các đốt sống thắt lưng
+B. Đĩa đệm
+C. Mỏm gai, Chân cung sống
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+772. Ở tư thế chụp sọ thẳng trước sau, tia trung tâm đặt ở:
+A. Giữa nhân trung.
+B. Cằm.
+C. Bờ dưới răng cửa hàm trên.
+D. Tất cả đều sai
+Đáp án đúng: D
+
+773. Điểm nhắm của tia trung tâm khi chụp xương cùng tư thế trước sau là:
+A. Một điểm trên khớp mu 2 cm
+B. Một điểm trên khớp mu 10 cm
+C. Một điểm dưới khớp mu 5 cm
+D. Một điểm dưới khớp mu 10 cm
+Đáp án đúng: A
+
+774. Tư thế chụp phổi sau trước được thực hiện như sau:
+A. Đặt bệnh nhân đứng hoặc ngồi với mặt quay về phía giá giữ cassette
+B. Điều chỉnh để bình diện giữa thân mình ngay đường giữa phim
+C. Hướng dẫn bệnh nhân hít sâu nín thở khi có hiệu lệnh.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+775. Tư thế chụp phổi trước sau với bệnh nhân nằm ngửa được dùng trong trường hợp:
+A. Bệnh nhân không đứng được
+B. Bệnh nhân mất tự chủ vận động.
+C. Bệnh nhân là trẻ em dưới 2 tuổi.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+776. Cách hạn chế liều tia X cho KTV CĐHA trong lĩnh vực X-quang:
+A. Chọn kV, mAs phù hợp với từng bộ phận.
+B. Khu trú chùm tia phù hợp với từng bộ phận.
+C. Đóng cửa phòng chụp trước khi phát tia.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+777. Với chỉ định chụp MRI trực tràng có tiêm thuốc tương phản từ với chẩn đoán K trực tràng, bệnh nhân cần được chuẩn bị gì trước chụp:
+A. Không cần chuẩn bị.
+B. Thụt tháo sạch lòng trực tràng bằng Fleet enoma (30 phút trước chụp).
+C. Bệnh nhân nhịn uống nước.
+D. Tất cả đều sai.
+Đáp án đúng: B
+
+778. Trường hợp bệnh nhân có nghi ngờ u gan vỡ, đang điều trị hồi sức tích cực, cần chỉ định loại cận lâm sàng nào:
+A. MRI
+B. CT-Scan.
+C. PET-CT.
+D. X-quang bụng không chuẩn bị.
+Đáp án đúng: B
+
+779. Các yếu tố gây ra xảo ảnh khi chụp MRI bụng:
+A. Nhịp thở.
+B. Nhu động ruột.
+C. Nhịp đập mạch máu.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+780. Chuỗi xung STIR (trong MRI) dùng để xóa tín hiệu của mô nào sau đây:
+A. Mỡ.
+B. Vôi.
+C. Nước.
+D. Dịch não tủy.
+Đáp án đúng: A
+
+781. Các loại nam châm được sử dụng trong MRI, ngoại trừ:
+A. Vĩnh cửu.
+B. Siêu dẫn.
+C. Điện trở.
+D. Bán dẫn.
+Đáp án đúng: D
+
+782. Chuỗi xung nào sau đây giúp phân biệt được thoái hóa dạng mỡ và di căn trong chụp MRI cột sống thắt lưng:
+A. Flair.
+B. Diffusion.
+C. STIR.
+D. Tất cả đều sai.
+Đáp án đúng: C
+
+783. Trong bệnh lý viêm xoang, phương pháp chẩn đoán hình ảnh nào được xem là tiêu chuẩn vàng trong việc đánh giá:
+A. Siêu âm.
+B. CT-Scan.
+C. MRI.
+D. X-quang.
+Đáp án đúng: B
+
+784. Loại bức xạ nào được sử dụng trong chụp CT scan là:
+A. Tia X.
+B. Tia Beta.
+C. Tia Gamma.
+D. Tất cả đều đúng.
+Đáp án đúng: A
+
+785. Trong chụp MRI, vì sao KTV CĐHA luôn yêu cầu loại bỏ tối đa vật dụng kim loại trên người bệnh nhân trước khi thực hiện kỹ thuật:
+A. Tránh tạo nhiễu ảnh.
+B. Tránh bị hút bởi từ trường của máy MRI.
+C. Tránh làm bệnh nhân bị bỏng.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+786. Thuật ngữ “Đo mật độ xương” trong tiếng anh được gọi là:
+A. Bone Mineral Density.
+B. Bone Mineral Day.
+C. A và B đều đúng.
+D. A và B đều sai.
+Đáp án đúng: A
+
+787. Trong siêu âm chẩn đoán, tần số sóng siêu âm được sử dụng là:
+A. 2-50 mHz.
+B. 150-200 mHz.
+C. 100-150 mHz.
+D. Tất cả đều sai.
+Đáp án đúng: A
+
+788. Các kỹ thuật xóa mỡ được sử dụng trong chụp cộng hưởng từ (MRI):
+A. STIR.
+B. FATSAT.
+C. IDEAL.
+D. Tất cả đều đúng.
+Đáp án đúng: D
+
+789. Trong chụp Xquang cột sống thắt lưng tư thế trước sau, tia trung tâm nhắm :
+A. Ngang mào chậu.
+B. Trên mào chậu 3 khoát ngón tay.
+C. Dưới mào chậu 3 khoát ngón tay.
+D. Bờ dưới xương ức.
+Đáp án đúng: B
+
+790. Trong chụp Xquang cột sống thắt lưng tư thế nghiêng, tia trung tâm nhắm :
+A. Ngang mào chậu.
+B. Trên mào chậu 3 khoát ngón tay.
+C. Dưới mào chậu 3 khoát ngón tay.
+D. Bờ dưới xương úc.
+Đáp án đúng: B
+
+791. Khi chụp cổ tay tư thế sau trước, tia trung tâm nhắm ngay …. và tia trung tâm sẽ thẳng góc mặt phim tại trung tâm.
+A. Mỏm trâm quay
+B. Mỏm trâm trụ
+C. Trung điểm đường thẳng nối liền hai mấu trâm
+D. Dưới trung điểm đường thẳng nối liền hai mấu trâm 3cm
+Đáp án đúng: C
+
+792. Khi chụp cổ tay ở tư thế chếch, nhắm đầu đèn ngay ……………. và tia trung tâm sẽ thẳng góc mặt phim tại trung tâm.
+A. Xương thuyền
+B. Mỏm trâm trụ
+C. Xương đậu
+D. Trung điểm đường thẳng nối liền hai mấu trâm.
+Đáp án đúng: A
+
+793. Chụp xương cẳng chân thẳng tia trung tâm chiếu thẳng từ trên xuống ……………. Với phim , vào giữa xương cẳng chân .
+A. Vuông góc
+B. Song song
+C. tạo góc 5 độ
+D. tạo góc 10 độ
+Đáp án đúng: A
+
+794. CT xoắn ốc là máy ………………. với cải tiến kỹ thuật vòng trượt cho phép đầu đèn , đầu dò quay liên tục.
+A. Thế hệ 1
+B. Thế hệ 2
+C. Thế hệ 3
+D. Thế hệ 4
+Đáp án đúng: C
+
+795. Năm…………… G.N Hounsfield giới thiệu máy chụp cắt lớp vi tính ( Computed tomography scanner ) và cho thấy khả năng khảo sát của máy trong lĩnh vực chẩn đoán.
+A. 1972
+B. 1975
+C. 1980
+D. 1985
+Đáp án đúng: A
+
+796. Máy CT thế hệ thứ 3 chùm tia hình rẻ quạt rộng ( 30-60 độ ) ở thế hệ này ……….….. và đầu dò cùng quay . Đầu dò khoảng 400-800 kênh.
+A. Bàn bệnh nhân
+B. Đầu đèn
+C. Khung máy
+D. Máy phát điện cao thế
+Đáp án đúng: B
+
+797. Máy CT ở thế hệ thứ 3 thời gian cho 1 lớp cắt khoảng ................ , là máy CT phổ biến hiện nay:
+A. 4-5 Phút
+B. 10-20S
+C. 20-30S
+D. 1-4S
+Đáp án đúng: D
+
+798. Trong nguyên lí tạo ảnh của CT trị số mức độ hấp thụ tia X còn được biểu thị bằng đơn vị ……………., theo qui ước của máy có các đậm độ cơ bản là nước, khí , xương , mỡ.
+A. cm
+B. ml
+C. mm
+D. Hounffield (HU)
+Đáp án đúng: D
+
+799. Trên hình CT xảo ảnh hình sao do đậm độ cao của ……….... tạo các đường ,tỏa ra như hình sao .
+A. Khí
+B. Nước
+C. Kim loại
+D. Bệnh nhân cử động
+Đáp án đúng: C
+
+800. Thế hệ thứ 1 của máy chụp CT vật thể đặt giữa đầu đèn và 1 đầu dò , đầu đèn chuyển động tịnh tiến và quay , thời gian cho 1 lớp cắt khoảng ……………..và chỉ áp dụng với vùng không di động như đầu .
+A. 2-4S
+B. 4-5 Phút
+C. 5-10S
+D. 15-20S
+Đáp án đúng: B

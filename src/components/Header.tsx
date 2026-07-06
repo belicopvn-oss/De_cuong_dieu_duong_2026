@@ -9,6 +9,7 @@ interface HeaderProps {
   wrongCount: number;
   historyCount: number;
   onLogoClick: () => void;
+  totalQuestions?: number;
 }
 
 export default function Header({
@@ -19,6 +20,7 @@ export default function Header({
   wrongCount,
   historyCount,
   onLogoClick,
+  totalQuestions = 800,
 }: HeaderProps) {
   return (
     <header id="app-header" className="sticky top-0 z-40 w-full border-b border-neutral-200 dark:border-neutral-800 bg-white/80 dark:bg-neutral-950/80 backdrop-blur-md">
@@ -39,7 +41,7 @@ export default function Header({
               Đề Cương Điều Dưỡng 2026
             </h1>
             <p className="text-xs text-neutral-500 dark:text-neutral-400 font-mono mt-0.5 group-hover:text-neutral-600 dark:group-hover:text-neutral-300 transition-colors">
-              Hệ thống ôn luyện 800 câu hỏi trắc nghiệm
+              Hệ thống ôn luyện {totalQuestions} câu hỏi trắc nghiệm
             </p>
           </div>
         </div>

@@ -11,44 +11,39 @@ interface PartSelectorProps {
 
 const partMetadata: { [key: number]: { title: string; desc: string; iconBg: string } } = {
   1: {
-    title: "Đạo đức & Cấp cứu hồi sức",
-    desc: "Đạo đức điều dưỡng, Cấp cứu phản vệ, Kỹ thuật đặt nội khí quản, Chăm sóc vết mổ ngoại khoa",
+    title: "Đề ôn tập - Phần 1",
+    desc: "Câu 1 - 76: Quy tắc ứng xử viên chức y tế, chuẩn đạo đức nghề nghiệp, Luật khám chữa bệnh, kỹ năng giao tiếp và chăm sóc người bệnh cơ bản.",
     iconBg: "bg-emerald-500/10 text-emerald-600 dark:text-emerald-400"
   },
   2: {
-    title: "Ngoại khoa & Sản - Nhi sơ khởi",
-    desc: "Chấn thương ngoại khoa, Đỡ đẻ thường, Vàng da sơ sinh, Hồ sơ bệnh án & Quy định hành nghề",
+    title: "Đề ôn tập - Phần 2",
+    desc: "Câu 77 - 189: Cấp cứu phản vệ, tai biến truyền dịch, kỹ thuật thông tiểu, đặt ống thông dạ dày, hồi sức tim phổi CPR và quy trình điều dưỡng.",
     iconBg: "bg-indigo-500/10 text-indigo-600 dark:text-indigo-400"
   },
   3: {
-    title: "Tiêm an toàn & KSNK cơ bản",
-    desc: "Quản lý sự cố, Quy tắc ứng xử cơ sở y tế, Tiêm an toàn, Phân loại Spaulding, Xử lý dụng cụ phòng mổ",
+    title: "Đề ôn tập - Phần 3",
+    desc: "Câu 190 - 272: Kiểm soát nhiễm khuẩn, phân loại chất thải y tế, phòng ngừa chuẩn, vệ sinh tay thường quy, tiệt khuẩn dụng cụ và vệ sinh môi trường.",
     iconBg: "bg-amber-500/10 text-amber-600 dark:text-amber-400"
   },
   4: {
-    title: "Điều dưỡng nội - ngoại khoa",
-    desc: "Thở máy hồi sức, Phòng loét tỳ đè, Chăm sóc suy tim, Đái tháo đường, Ung thư giai đoạn cuối",
+    title: "Đề ôn tập - Phần 4",
+    desc: "Câu 273 - 420: Chăm sóc người bệnh Nội khoa và Cấp cứu: Tăng huyết áp, Đột quỵ, Đái tháo đường, Hen phế quản, suy tim, bệnh phổi tắc nghẽn mãn tính (COPD), v.v.",
     iconBg: "bg-rose-500/10 text-rose-600 dark:text-rose-400"
   },
   5: {
-    title: "Điều dưỡng Nhi khoa nâng cao",
-    desc: "Chiếu đèn vàng da, Suy hô hấp trẻ em, Lồng ấp sơ sinh, Viêm phổi trẻ em, Biểu đồ tăng trưởng",
+    title: "Đề ôn tập - Phần 5",
+    desc: "Câu 421 - 560: Chăm sóc người bệnh Ngoại khoa, Sản khoa & Nhi khoa: Chấn thương sọ não, dẫn lưu lồng ngực, gãy xương, sỏi đường mật, suy hô hấp nhi, sốt cao co giật, theo dõi chuyển dạ, băng huyết sau sinh.",
     iconBg: "bg-sky-500/10 text-sky-600 dark:text-sky-400"
   },
   6: {
-    title: "Điều dưỡng Sản khoa chuyên sâu",
-    desc: "Cấp cứu sa dây rốn, Theo dõi chuyển dạ, Chửa ngoài tử cung, Ung thư dạ dày, Phẫu thuật nội soi",
-    iconBg: "bg-purple-500/10 text-purple-600 dark:text-purple-400"
-  },
-  7: {
-    title: "Xét nghiệm & Cận lâm sàng",
-    desc: "Vận hành máy hóa sinh AU680, An toàn truyền máu, Vi sinh lâm sàng, Kiểm soát nhiễm trùng tiểu",
+    title: "Đề ôn tập - Phần 6",
+    desc: "Câu 561 - 700: Gây mê hồi sức ngoại khoa, Bảng kiểm an toàn phẫu thuật, Xét nghiệm hóa sinh & huyết học, Quy trình truyền máu an toàn.",
     iconBg: "bg-teal-500/10 text-teal-600 dark:text-teal-400"
   },
-  8: {
-    title: "Chẩn đoán hình ảnh chuyên môn",
-    desc: "Chụp CT mạch vành cản quang, Đo loãng xương Dexa, An toàn bức xạ, Chụp cộng hưởng từ MRI",
-    iconBg: "bg-fuchsia-500/10 text-fuchsia-600 dark:text-fuchsia-400"
+  7: {
+    title: "Đề ôn tập - Phần 7",
+    desc: "Câu 701 - 800: Vi sinh vật học, Ký sinh trùng học, Kiểm soát nhiễm khuẩn chuyên sâu, xử lý phơi nhiễm nghề nghiệp y tế (HIV, HBV), giám sát nhiễm khuẩn vết mổ.",
+    iconBg: "bg-purple-500/10 text-purple-600 dark:text-purple-400"
   }
 };
 
@@ -59,15 +54,17 @@ export default function PartSelector({
   userProgress,
   stats,
 }: PartSelectorProps) {
+  const totalQuestionsCount = parts.length > 0 ? parts[parts.length - 1].endId : 0;
+
   return (
     <div id="part-selector" className="space-y-4">
       <div className="flex items-center justify-between">
         <h2 className="font-display text-lg font-bold text-neutral-900 dark:text-white flex items-center gap-2">
           <BookOpen className="h-5 w-5 text-rose-500" />
-          <span>Danh sách phần học (800 Câu hỏi)</span>
+          <span>Danh sách phần học ({totalQuestionsCount} Câu hỏi)</span>
         </h2>
         <span className="text-xs font-mono text-neutral-500 dark:text-neutral-400 bg-neutral-100 dark:bg-neutral-900 px-2 py-1 rounded-md">
-          8 phần ôn tập
+          {parts.length} phần ôn tập
         </span>
       </div>
 

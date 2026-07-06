@@ -7,20 +7,19 @@ import QuizCard from './components/QuizCard';
 import ReviewPanel from './components/ReviewPanel';
 import HistoryPanel from './components/HistoryPanel';
 
-// Import our 800 questions database
+// Import our 272 questions database
 import questionsDataRaw from './data/questions.json';
 
 const questionsData = questionsDataRaw as Question[];
 
 const parts: Part[] = [
-  { id: 1, name: "Phần 1: Câu 1 - 100", startId: 1, endId: 100 },
-  { id: 2, name: "Phần 2: Câu 101 - 200", startId: 101, endId: 200 },
-  { id: 3, name: "Phần 3: Câu 201 - 300", startId: 201, endId: 300 },
-  { id: 4, name: "Phần 4: Câu 301 - 400", startId: 301, endId: 400 },
-  { id: 5, name: "Phần 5: Câu 401 - 500", startId: 401, endId: 500 },
-  { id: 6, name: "Phần 6: Câu 501 - 600", startId: 501, endId: 600 },
-  { id: 7, name: "Phần 7: Câu 601 - 700", startId: 601, endId: 700 },
-  { id: 8, name: "Phần 8: Câu 701 - 800", startId: 701, endId: 800 },
+  { id: 1, name: "Phần 1: Câu 1 - 76 (Điều dưỡng cơ bản)", startId: 1, endId: 76 },
+  { id: 2, name: "Phần 2: Câu 77 - 189 (Cấp cứu & Hồi sức)", startId: 77, endId: 189 },
+  { id: 3, name: "Phần 3: Câu 190 - 272 (Kiểm soát nhiễm khuẩn)", startId: 190, endId: 272 },
+  { id: 4, name: "Phần 4: Câu 273 - 420 (Nội khoa & Cấp cứu)", startId: 273, endId: 420 },
+  { id: 5, name: "Phần 5: Câu 421 - 560 (Sản khoa & Nhi khoa)", startId: 421, endId: 560 },
+  { id: 6, name: "Phần 6: Câu 561 - 700 (Gây mê, Hồi sức & Xét nghiệm)", startId: 561, endId: 700 },
+  { id: 7, name: "Phần 7: Câu 701 - 800 (Vi sinh & KSNK nâng cao)", startId: 701, endId: 800 },
 ];
 
 export default function App() {
@@ -73,12 +72,8 @@ export default function App() {
 
   // --- Quiz Session ---
   const [selectedPartId, setSelectedPartId] = useState<number | null>(null);
-  const [currentIndex, setCurrentIndex] = useState<number>(0);
-  const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
-  const [isAnswered, setIsAnswered] = useState<boolean>(false);
-  const [sessionScore, setSessionScore] = useState<number>(0);
-  const [sessionWrongCount, setSessionWrongCount] = useState<number>(0);
   const [sessionAnswers, setSessionAnswers] = useState<{ [questionId: number]: string }>({});
+  const [isGraded, setIsGraded] = useState<boolean>(false);
   const [sessionStartTime, setSessionStartTime] = useState<number>(0);
 
   // Completion results summary modal
@@ -98,94 +93,59 @@ export default function App() {
 
   const handleSelectPart = (partId: number) => {
     setSelectedPartId(partId);
-    setCurrentIndex(0);
-    setSelectedAnswer(null);
-    setIsAnswered(false);
-    setSessionScore(0);
-    setSessionWrongCount(0);
     setSessionAnswers({});
+    setIsGraded(false);
     setSessionStartTime(Date.now());
     setCompletedResults(null);
   };
 
-  const handleSelectOption = (letter: string) => {
-    if (isAnswered) return;
+  const handleSelectOption = (questionId: number, letter: string) => {
+    if (isGraded) return;
 
-    const currentQuestion = activeQuestions[currentIndex];
-    setSelectedAnswer(letter);
-    setIsAnswered(true);
-
-    const isCorrect = letter === currentQuestion.answer;
-    const newAnswers = { ...sessionAnswers, [currentQuestion.id]: letter };
+    const newAnswers = { ...sessionAnswers, [questionId]: letter };
     setSessionAnswers(newAnswers);
 
-    if (isCorrect) {
-      setSessionScore(prev => prev + 1);
-    } else {
-      setSessionWrongCount(prev => prev + 1);
-    }
+    // Update total completed questions in this part (real-time progress bar)
+    setUserProgress(prev => {
+      const count = Object.keys(newAnswers).length;
+      return {
+        ...prev,
+        [selectedPartId!]: count,
+      };
+    });
+  };
 
-    // Update global question stats (wrong tracking and total attempts)
-    setStats(prev => {
-      const qStat = prev[currentQuestion.id] || {
-        questionId: currentQuestion.id,
+  const handleGradeQuiz = () => {
+    if (!selectedPartId || !activePart) return;
+
+    let score = 0;
+    const newStats = { ...stats };
+
+    activeQuestions.forEach(question => {
+      const userAnswer = sessionAnswers[question.id];
+      const isCorrect = userAnswer === question.answer;
+
+      if (isCorrect) {
+        score++;
+      }
+
+      // Update question stats
+      const qStat = newStats[question.id] || {
+        questionId: question.id,
         wrongCount: 0,
         totalAttempts: 0,
         lastAttemptTime: new Date().toISOString(),
       };
 
-      return {
-        ...prev,
-        [currentQuestion.id]: {
-          questionId: currentQuestion.id,
-          wrongCount: isCorrect ? qStat.wrongCount : qStat.wrongCount + 1,
-          totalAttempts: qStat.totalAttempts + 1,
-          lastAttemptTime: new Date().toISOString(),
-        }
+      newStats[question.id] = {
+        questionId: question.id,
+        wrongCount: isCorrect ? qStat.wrongCount : qStat.wrongCount + 1,
+        totalAttempts: qStat.totalAttempts + 1,
+        lastAttemptTime: new Date().toISOString(),
       };
     });
 
-    // Update total completed questions in this part
-    setUserProgress(prev => {
-      const currentAnswered = prev[selectedPartId!] || 0;
-      const count = Object.keys(newAnswers).length;
-      return {
-        ...prev,
-        [selectedPartId!]: Math.max(currentAnswered, count),
-      };
-    });
-  };
-
-  const handleNextQuestion = () => {
-    if (currentIndex < activeQuestions.length - 1) {
-      const nextIndex = currentIndex + 1;
-      setCurrentIndex(nextIndex);
-      // Restore state if already answered in this session, otherwise reset
-      const nextQuestionId = activeQuestions[nextIndex].id;
-      const savedAns = sessionAnswers[nextQuestionId];
-      if (savedAns) {
-        setSelectedAnswer(savedAns);
-        setIsAnswered(true);
-      } else {
-        setSelectedAnswer(null);
-        setIsAnswered(false);
-      }
-    }
-  };
-
-  const handlePreviousQuestion = () => {
-    if (currentIndex > 0) {
-      const prevIndex = currentIndex - 1;
-      setCurrentIndex(prevIndex);
-      const prevQuestionId = activeQuestions[prevIndex].id;
-      const savedAns = sessionAnswers[prevQuestionId];
-      setSelectedAnswer(savedAns || null);
-      setIsAnswered(savedAns !== undefined);
-    }
-  };
-
-  const handleFinishQuiz = () => {
-    if (!selectedPartId || !activePart) return;
+    setStats(newStats);
 
     const duration = Math.round((Date.now() - sessionStartTime) / 1000);
 
@@ -193,23 +153,29 @@ export default function App() {
       id: Math.random().toString(36).substr(2, 9),
       partId: selectedPartId,
       partName: activePart.name,
-      score: sessionScore,
+      score: score,
       totalQuestions: activeQuestions.length,
       completedAt: new Date().toISOString(),
       durationSeconds: duration
     };
 
     setHistory(prev => [newHistory, ...prev]);
+    setIsGraded(true);
 
-    setCompletedResults({
-      partId: selectedPartId,
-      partName: activePart.name,
-      score: sessionScore,
-      total: activeQuestions.length,
-      duration: duration
-    });
+    // Lock progress to 100% / total questions on grade
+    setUserProgress(prev => ({
+      ...prev,
+      [selectedPartId]: activeQuestions.length,
+    }));
+  };
 
-    // Reset session
+  const handleResetQuiz = () => {
+    setSessionAnswers({});
+    setIsGraded(false);
+    setSessionStartTime(Date.now());
+  };
+
+  const handleBackToPartList = () => {
     setSelectedPartId(null);
   };
 
@@ -263,6 +229,7 @@ export default function App() {
         }}
         wrongCount={totalWrongCount}
         historyCount={history.length}
+        totalQuestions={questionsData.length}
       />
 
       {/* Main Content Area */}
@@ -345,19 +312,39 @@ export default function App() {
                     </p>
                   </div>
                   
-                  <div className="flex items-center gap-3 shrink-0">
-                    <div className="px-4 py-2.5 bg-white dark:bg-neutral-900 border border-neutral-200 dark:border-neutral-850 rounded-2xl text-center">
-                      <span className="text-[10px] uppercase font-mono text-neutral-400">Đã học</span>
-                      <p className="text-base sm:text-lg font-bold text-rose-500 mt-0.5">
-                        {(Object.values(userProgress) as number[]).reduce((acc, curr) => acc + curr, 0)} / 800
-                      </p>
+                  <div className="flex flex-col items-end gap-2 shrink-0">
+                    <div className="flex items-center gap-3">
+                      <div className="px-4 py-2.5 bg-white dark:bg-neutral-900 border border-neutral-200 dark:border-neutral-850 rounded-2xl text-center">
+                        <span className="text-[10px] uppercase font-mono text-neutral-400">Đã học</span>
+                        <p className="text-base sm:text-lg font-bold text-rose-500 mt-0.5">
+                          {(Object.values(userProgress) as number[]).reduce((acc, curr) => acc + curr, 0)} / {questionsData.length}
+                        </p>
+                      </div>
+                      <div className="px-4 py-2.5 bg-white dark:bg-neutral-900 border border-neutral-200 dark:border-neutral-850 rounded-2xl text-center">
+                        <span className="text-[10px] uppercase font-mono text-neutral-400">Yếu điểm</span>
+                        <p className="text-base sm:text-lg font-bold text-amber-500 mt-0.5">
+                          {totalWrongCount} câu
+                        </p>
+                      </div>
                     </div>
-                    <div className="px-4 py-2.5 bg-white dark:bg-neutral-900 border border-neutral-200 dark:border-neutral-850 rounded-2xl text-center">
-                      <span className="text-[10px] uppercase font-mono text-neutral-400">Yếu điểm</span>
-                      <p className="text-base sm:text-lg font-bold text-amber-500 mt-0.5">
-                        {totalWrongCount} câu
-                      </p>
-                    </div>
+                    <button
+                      id="btn-reset-app-state"
+                      onClick={() => {
+                        if (confirm("Bạn có chắc chắn muốn xoá toàn bộ tiến trình học, lịch sử thi và đặt lại ứng dụng không?")) {
+                          localStorage.clear();
+                          setStats({});
+                          setHistory([]);
+                          setUserProgress({});
+                          setSelectedPartId(null);
+                          setCompletedResults(null);
+                          window.location.reload();
+                        }
+                      }}
+                      className="text-[10px] font-mono text-rose-600 hover:text-rose-700 dark:text-rose-400 dark:hover:text-rose-300 transition-colors flex items-center gap-1 mt-1 font-semibold self-end"
+                    >
+                      <Trash2 className="h-3 w-3" />
+                      <span>Xoá tiến trình & Đặt lại</span>
+                    </button>
                   </div>
                 </div>
 
@@ -371,32 +358,17 @@ export default function App() {
               </div>
             )}
 
-            {/* Quiz Active Card View */}
+            {/* Quiz Active Scrollable View */}
             {selectedPartId && activePart && (
-              <div className="space-y-4 max-w-3xl mx-auto">
-                
-                {/* Exit back button */}
-                <button
-                  id="btn-quit-quiz"
-                  onClick={() => {
-                    setSelectedPartId(null);
-                  }}
-                  className="flex items-center gap-1.5 text-xs sm:text-sm font-semibold text-neutral-600 hover:text-neutral-900 dark:text-neutral-400 dark:hover:text-white transition-colors py-1"
-                >
-                  <ArrowLeft className="h-4 w-4" />
-                  <span>Quay lại danh sách</span>
-                </button>
-
+              <div className="max-w-3xl mx-auto">
                 <QuizCard
-                  question={activeQuestions[currentIndex]}
-                  currentIndex={currentIndex}
-                  totalInPart={activeQuestions.length}
-                  selectedAnswer={selectedAnswer}
-                  isAnswered={isAnswered}
+                  questions={activeQuestions}
+                  sessionAnswers={sessionAnswers}
+                  isGraded={isGraded}
                   onSelectOption={handleSelectOption}
-                  onNext={handleNextQuestion}
-                  onPrevious={handlePreviousQuestion}
-                  onFinish={handleFinishQuiz}
+                  onGrade={handleGradeQuiz}
+                  onReset={handleResetQuiz}
+                  onBack={handleBackToPartList}
                   partName={activePart.name}
                 />
               </div>
